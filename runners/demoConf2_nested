@@ -1,0 +1,8 @@
+@tab complex
+split: v {
+  pane "left": bash
+  split: h {
+    pane "top-right": htop
+    pane "bottom-right": tail -f /var/log/syslog
+  }
+}

@@ -1,0 +1,9 @@
+@tab dev
+split: v
+pane "shell": bash
+pane "build": ls
+
+@tab ops
+split: h
+pane "logs": journalctl -f
+pane "stats": watch -n1 'uptime; free -h'

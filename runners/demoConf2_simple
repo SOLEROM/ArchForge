@@ -1,0 +1,5 @@
+@tab logs
+cmd: bash
+
+@tab top
+cmd: htop

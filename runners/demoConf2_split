@@ -1,0 +1,5 @@
+@tab dev
+split: v
+pane "shell": bash
+pane "build": ls
+
