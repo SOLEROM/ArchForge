@@ -1,3 +1,0 @@
-# Creational
-
-* [Singleton](./singleton.md)
