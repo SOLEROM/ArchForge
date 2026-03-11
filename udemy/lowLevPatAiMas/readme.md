@@ -4,15 +4,31 @@
 
 ![alt text](image.png)
 
+
+## 00
+* [low level design](./00_LLD/readme.md)
+
+## 01 OOP
+* [OOP](./01_oop/readme.md)
+
+## 02 SOLID
+* [about SOLID](./02_solid/solid.md)
+    * [SRP](./02_solid/srp.md)
+    * [OCP](./02_solid/ocp.md)
+    * [LSP](./02_solid/lsp.md)
+    * [ISP](./02_solid/isp.md)
+    * [DIP](./02_solid/dip.md)
+* [demo](./02_solid/demo.md)
+
+
+## 03 - design patterns
+* [patterns](./03_patterns/readme.md)
+* [creational](./31_creation/readme.md)
+* [structural](./32_structural/readme.md)
+* [behavioral](./33_behavioral/readme.md)
+
+
+
+
+
 ![alt text](image-1.png)
-
-## 01 principles
-* [OOP](./01_princ/readme.md)
-* [SOLID](./01_princ/solid.md)
-* [SRP](./01_princ/srp.md)
-* [OCP](./01_princ/ocp.md)
-* [LSP](./01_princ/lsp.md)
-* [ISP](./01_princ/isp.md)
-* [DIP](./01_princ/dip.md)
-
-## 02

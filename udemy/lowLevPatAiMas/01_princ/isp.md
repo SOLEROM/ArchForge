@@ -1,5 +1,0 @@
-# isp
-
-Interface Segregation Principle
-
-* 
